@@ -1,0 +1,53 @@
+
+div{
+	/* div porpeties */
+	background:#000;
+	width:500px;
+	margin:10px 0;
+	padding:10px;
+	/* texst l */
+	color:rgb(0,250,0);
+	direction:ltr;
+	letter-spacing:3px;
+	text-align:center;
+	text-indent:40px;
+	overflow:hidden;
+	font-family: 'Zen Tokyo Zoo', cursive;
+	
+	}
+a{color:rgb(0,250,0);
+
+
+	}
+
+
+p{
+  font-size:xx-large;
+}
+
+
+p{
+  font:italic/ bold/ 3000px/40px/'Zen Tokyo Zoo';
+}
+mark{
+ color:#00f;
+ background:#0078A8
+ 
+}
+
+a img{
+  width: 200px;
+  height: 400px;
+}
+bottom {
+  background:#000;
+  color:rgb(0,250,0)
+}
+
+table {
+  border-spacing: 10px;
+  padding: 10px;
+}
+padding{
+  color:red;
+}
